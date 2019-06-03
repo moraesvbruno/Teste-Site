@@ -1,6 +1,6 @@
 ## Bem Vindo ao meu Teste
 
-You can use the / Você consegue utilizar [editor on GitHub](https://github.com/moraesvbruno/Teste-Site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bem vindo ao Fab Lab SESI! [site do Fab Lab](https://ribeiraopreto.sesisp.org.br/fab-lab-escola-sesi-sp) Clique no link e conheça mais.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
